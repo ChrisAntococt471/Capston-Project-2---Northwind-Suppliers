@@ -2,13 +2,13 @@
 Purwadhika Capston Project 2 - Northwind (Fokus Analysis : Suppliers)
 
 
-##Latar Belakang
+## Latar Belakang
 
 
 Untuk proyek, ini kita akan menganalisis database Northwind. Northwind adalah sebuah perusahaan yang bergerak di bidang ekspor impor berbagai macam produk. Sebuah analisis diinginkan untuk mengetahui **gambaran dan performa pemasok / supplier produk Northwind**. Terdapat sebuah database yang menunjukkan profil singkat pemasok dan juga performanya dalam indikator order / pesanan. Analisis lanjutan akan dilakukan untuk mengetahui gambaran pemasok produk Northwind dan juga performanya untuk meningkatkan efisiensi.
 
 
-##Rumusan Masalah
+## Rumusan Masalah
 
 
 1.Produk apakah yang paling diminati konsumen?
@@ -18,7 +18,7 @@ Untuk proyek, ini kita akan menganalisis database Northwind. Northwind adalah se
 5.Bagaimanakah performa supplier- supplier dengan nilai order yang besar?
 
 
-##Tahapan Analisis Data
+## Tahapan Analisis Data
 
 
 1.Membuat tabel analisis dari database SQL dan menghubungkannya ke Python
@@ -27,15 +27,15 @@ Untuk proyek, ini kita akan menganalisis database Northwind. Northwind adalah se
 4.Membuat implikasi manajerial berdasarkan analisis data
 
 
-##Temuan Penting
+## Temuan Penting
 
 
-###Produk yang diminati konsumen
+### Produk yang diminati konsumen
 
 Berdasarkan analisis, terlihat produk kategori minuman dan susu merupakan produk yang paling diminati konsumen.
 
 
-###Hasil Analisis
+### Hasil Analisis
 
 
 1.Supplier Northwind sebanyak 28 supplier yang berasal dari 16 negara. Terlihat sebagian besar transaksi berkaitan dengan supplier berasal dari negara AS.
