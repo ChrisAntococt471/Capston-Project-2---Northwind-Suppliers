@@ -12,9 +12,13 @@ Untuk proyek, ini kita akan menganalisis database Northwind. Northwind adalah se
 
 
 1.Produk apakah yang paling diminati konsumen?
+
 2.Bagaimanakah gambaran identitas supplier Northwind?
+
 3.Supplier manakah yang paling banyak memasok produk yang diminati konsumen?
+
 4.Siapakah supplier dengan nilai order yang paling besar?
+
 5.Bagaimanakah performa supplier- supplier dengan nilai order yang besar?
 
 
@@ -22,8 +26,11 @@ Untuk proyek, ini kita akan menganalisis database Northwind. Northwind adalah se
 
 
 1.Membuat tabel analisis dari database SQL dan menghubungkannya ke Python
+
 2.Membersihkan data dari anomali-anomali
+
 3.Melakukan analisis dengan visualisasi data dan hypotesis testing
+
 4.Membuat implikasi manajerial berdasarkan analisis data
 
 
